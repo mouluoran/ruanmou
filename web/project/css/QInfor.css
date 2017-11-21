@@ -1,0 +1,332 @@
+﻿#quemian {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+#dquecon-left {
+    width: 700px;
+    float: left;
+    margin-top: 20px;
+}
+
+#dquecon-right {
+    margin-left: 20px;
+    width: 275px;
+    float: left;
+    margin-top: 20px;
+}
+
+#daskcon h1 {
+    font-size: 18px;
+    line-height: 30px;
+    padding: 5px 0;
+}
+
+.fly-detail-hint {
+    margin: 5px 0 15px;
+}
+
+.fly-tip {
+    position: relative;
+}
+
+    .fly-tip span {
+        height: 20px;
+        line-height: 20px;
+        padding: 0 5px;
+        background-color: #999;
+        color: #fff;
+        font-size: 12px;
+    }
+
+.fly-list-hint {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+    .fly-list-hint i {
+        padding-left: 10px;
+        color: #ccc;
+        font-style: normal;
+    }
+
+.detail-about {
+    position: relative;
+    margin-top: 5px;
+    line-height: 20px;
+    background-color: #F2F2F2;
+    padding: 15px;
+    color: #999;
+}
+
+    .detail-about .jie-user {
+        position: relative;
+        margin-right: 10px;
+        display: inline-block;
+        vertical-align: top;
+        font-size: 12px;
+    }
+
+        .detail-about .jie-user img {
+            position: relative;
+            display: block;
+            margin: 0;
+            top: 0;
+            border-radius: 2px;
+            width: 46px;
+            height: 46px;
+            left: 0;
+        }
+
+.detail-about {
+    font-size: 10px;
+}
+
+    .detail-about .jie-user cite {
+        top: -3px;
+        left: 56px;
+        width: 360px;
+        color: #4f99cf;
+        font-size: 14px;
+        position: absolute;
+        right: 0;
+        line-height: 26px;
+        font-size: 10px;
+    }
+
+        .detail-about .jie-user cite em {
+            color: #999;
+        }
+
+.detail-hits {
+    position: absolute;
+    left: 71px;
+    bottom: 15px;
+}
+
+.detail-body {
+    margin: 20px 0 50px;
+    min-height: 200px;
+    line-height: 26px;
+    font-size: 14px;
+    word-wrap: break-word;
+}
+
+#areply {
+    color: #009688;
+}
+
+#dquecon-left .page-title {
+    border: none;
+    background-color: #f2f2f2;
+    position: relative;
+    font-size: 14px;
+    margin: 20px 0 30px;
+    padding: 10px 15px;
+    line-height: 30px;
+}
+
+.jieda {
+    margin-bottom: 30px;
+}
+
+    .jieda li {
+        position: relative;
+        padding: 20px 0 10px;
+        border-bottom: 1px dotted #DFDFDF;
+    }
+
+.detail-about-reply {
+    background: none;
+    padding: 0;
+    position: relative;
+    margin-top: 5px;
+    line-height: 20px;
+    color: #999;
+}
+
+.jie-user {
+    position: relative;
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 12px;
+}
+
+    .jie-user img {
+        position: relative;
+        display: block;
+        margin: 0;
+        top: 0;
+        border-radius: 2px;
+    }
+
+    .jie-user cite {
+        top: -3px;
+        left: 56px;
+        width: 260px;
+        color: #4f99cf;
+        font-size: 14px;
+    }
+
+        .jie-user cite i {
+            font-style: normal;
+        }
+
+        .jie-user cite em {
+            padding-left: 5px;
+            color: #999;
+            cursor: default;
+            font-size: 12px;
+            font-style: normal;
+        }
+
+.detail-about-reply .detail-hits {
+    left: 56px;
+    bottom: 0;
+    position: absolute;
+}
+
+.jieda .icon-caina {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    font-size: 60px;
+    color: #58A571;
+}
+
+.jieda-body {
+    margin: 25px 0 20px;
+    min-height: 0;
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.jieda-reply {
+    position: relative;
+}
+
+    .jieda-reply span {
+        padding-right: 20px;
+        color: #999;
+        cursor: pointer;
+    }
+
+        .jieda-reply span .icon-zan {
+            font-size: 22px;
+        }
+
+        .jieda-reply span em {
+            font-style: normal;
+        }
+
+        .jieda-reply span .icon-svgmoban53 {
+            position: relative;
+            top: 1px;
+        }
+
+        .jieda-reply span .icon-zan {
+            font-size: 22px;
+        }
+
+        .jieda-reply span i {
+            margin-right: 5px;
+        }
+
+
+
+#dquecon-right .page-title {
+    width: auto;
+    margin: 0;
+    line-height: 38px;
+    padding: 0 15px;
+    border: none;
+    background-color: #f2f2f2;
+    clear: both;
+}
+
+#dquecon-right .soreitem {
+    float: left;
+    margin-right: 4px;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+#dquecon-right .soreitem-clear {
+    margin-right: 0px;
+}
+
+#dquecon-right .soreitem img {
+    width: 64px;
+}
+
+#dquecon-right .soreitem span {
+    display: block;
+    font-size: 10px;
+}
+
+#dquecon-right .soreuser-name, #dquecon-right .soreuser-soure {
+    width: 64px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+#dquecon-right .soreuser-name {
+    background-color: #000;
+    filter: alpha(opacity=40);
+    background: rgba(0,0,0,0.4);
+    position: absolute;
+    top: 45px;
+    z-index: 2;
+    color: #fff;
+}
+
+#soreuserlist {
+    margin-top: 10px;
+    width: 275px;
+    height: 255px;
+    margin-bottom: 10px;
+}
+
+.fly-list-one li {
+    line-height: 26px;
+    list-style: decimal-leading-zero inside;
+    color: #009E94;
+}
+
+    .fly-list-one li a {
+        margin-right: 5px;
+        font-size: 12px;
+    }
+
+    .fly-list-one li span {
+        font-size: 12px;
+        color: #ccc;
+    }
+
+
+#viewtop {
+    width: 275px;
+    height: 270px;
+    margin-bottom: 10px;
+}
+
+a.cke_smile .cke_hand {
+    width: 40px;
+}
+
+
+.jieda-zan:hover {
+    color: #009688;
+}
+
+.detail-body {
+    width: 700px;
+}
+
+    .detail-body img {
+        max-width: 100%;
+        max-height: 100%;
+    }

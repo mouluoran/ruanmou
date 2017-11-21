@@ -1,0 +1,96 @@
+﻿#coursemain {
+    width: 1000px;
+    margin: 0px auto;
+    margin-bottom:10px;
+}
+
+    #coursemain .crumbs {
+        height: 46px;
+        width: 1000px;
+        line-height: 46px;
+        color: #BBBBBB;
+    }
+
+        #coursemain .crumbs a {
+            color: #BBBBBB;
+        }
+
+#courseleft {
+    border: 1px solid #cbf7d6;
+    float: left;
+    height: 240px;
+    width: 210px;
+}
+
+#courseright {
+    float: left;
+    margin-left: 20px;
+    overflow: hidden;
+    width: 765px;
+}
+
+#coursenavcon .navend {
+    border-bottom-width: 0px;
+}
+
+#coursenavtop {
+    background-color: #009688;
+    color: #fff;
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 15px;
+}
+
+#coursenavcon li {
+    border-bottom: 1px dashed #009688;
+    font-size: 13px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+}
+
+.coursetop {
+    border-bottom: 1px solid #f3f3f3;
+    font-size: 18px;
+    font-weight: 600;
+    height: 42px;
+    line-height: 42px;
+}
+
+.coursecon {
+    font-size: 14px;
+    line-height: 26px;
+    padding: 10px;
+}
+
+    .coursecon p {
+        margin-bottom: 10px;
+    }
+
+    .coursecon a {
+        text-decoration: underline;
+    }
+
+    .coursecon table th, .coursecon table td {
+        text-align: center;
+    }
+
+    .coursecon table td {
+        font-size: 11px;
+    }
+
+.courseth1, .courseth2, .jcourseth3 {
+    width: 10%;
+}
+.jcourseth3 {
+    width: 15%;
+}
+#btnreg {
+    background-color: #35b558;
+    color: #fff;
+    font-size: 20px;
+    height: 44px;
+    width: 200px;
+    margin-bottom: 10px;
+}

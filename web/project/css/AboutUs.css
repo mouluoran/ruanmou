@@ -1,0 +1,117 @@
+﻿#aboutmain {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#aboutnav {
+    color: #bbbbbb;
+    height: 46px;
+    line-height: 46px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#aboutleft {
+    float: left;
+    height: 200px;
+    width: 210px;
+    border: solid 1px #CBF7D6;
+}
+
+#aboutright {
+    float: left;
+    margin-left: 20px;
+    width: 765px;
+    overflow: hidden;
+}
+
+#aboutnavtop {
+    height: 40px;
+    line-height: 40px;
+    padding-left: 15px;
+    font-size: 15px;
+    background-color: #009688;
+    color: #fff;
+}
+
+#aboutnavcon li {
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+    border-bottom: dashed 1px #009688;
+    font-size: 13px;
+}
+
+    #aboutnavcon li a {
+        display: block;
+    }
+
+        #aboutnavcon li a:hover {
+            color: #35B558;
+        }
+
+#aboutleft .navend {
+    border-bottom-width: 0px;
+}
+
+.aboutrtop {
+    height: 42px;
+    font-size: 18px;
+    font-weight: 600;
+    border-bottom: solid 1px #F3F3F3;
+    line-height: 42px;
+}
+
+.aboutrcon {
+    padding: 10px;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+    .aboutrcon p {
+        margin-bottom: 10px;
+    }
+
+#teacherinfor li {
+    height: 90px;
+    width: 362px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#teacherinfor .teacherend {
+    margin-right: 0px;
+}
+
+.teacherimg {
+    height: 90px;
+    width: 90px;
+}
+
+#teacherinfor .teacherimg img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+.teainfor, .teacherimg {
+    float: left;
+}
+
+.teainfor {
+    margin-left: 10px;
+    width: 260px;
+    height: 100%;
+}
+
+.teaskill {
+    font-size: 12px;
+    line-height: 20px;
+    color: #999999;
+}
+
+#joinus, #contactus {
+    clear: both;
+}

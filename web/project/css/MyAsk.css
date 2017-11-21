@@ -1,0 +1,87 @@
+﻿.listhead div, .laskitem div, .lcomitem div, .lrsitem div {
+    float: left;
+}
+
+.inforbox {
+    margin-top: 0px;
+}
+
+#uasklist li, #ucomlist li, #urslist li {
+    clear: both;
+    width: 100%;
+}
+
+#uasklist .listhead, #ucomlist .listhead, #urslist .listhead {
+    height: 40px;
+    line-height: 40px;
+    border-bottom: solid 1px #009688;
+}
+
+#uasklist .laskitem, #ucomlist .lcomitem, #urslist .lrsitem {
+    height: 40px;
+    line-height: 40px;
+    border-bottom: dashed 1px #009688;
+}
+
+.listhead .htitle, .laskitem .ititle {
+    width: 50%;
+}
+
+.listhead .hcate, .laskitem .icate {
+    width: 10%;
+    text-align: center;
+}
+
+.listhead .htime, .laskitem .itime {
+    width: 10%;
+    text-align: center;
+}
+
+.listhead .hviewcount, .laskitem .iviewcount {
+    width: 10%;
+    text-align: center;
+}
+
+.listhead .hstate, .laskitem .istate {
+    width: 10%;
+    text-align: center;
+}
+
+.listhead .hrcount, .laskitem .ircount {
+    width: 10%;
+    text-align: center;
+}
+
+#pager {
+    width: 60%;
+    float: left;
+    margin-top: 10px;
+}
+
+.listhead .rtitle, .lcomitem .irtitle {
+    width: 70%;
+}
+
+
+.listhead .rtime, .lcomitem .irtime {
+    width: 10%;
+    text-align: center;
+}
+
+.listhead .rzan, .lcomitem .irzan, .listhead .rstime, .lrsitem .irstime {
+    width: 10%;
+    text-align: center;
+}
+
+.listhead .rsdopt, .lcomitem .irsdopt, .listhead .rsviewcount, .lrsitem .irsviewcount {
+    width: 10%;
+    text-align: center;
+}
+
+.listhead .rstitle, .lrsitem .irstitle {
+    width: 60%;
+}
+.listhead .rscate, .lrsitem .irscate {
+    width: 20%;
+    text-align: center;
+}

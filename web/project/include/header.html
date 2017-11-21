@@ -1,0 +1,26 @@
+﻿<div id="header">
+    <div id="headerleft"></div>
+    <div class="headerright" id="headerright1">
+        <ul>
+            <li><a href="/Reg.aspx">注册</a></li>
+            <li>|</li>
+            <li><a href="javascript:;" onclick="ShowLoginBox()">登录</a></li>
+        </ul>
+    </div>
+    <div class="headerright" id="headerright2">
+        <ul>
+            <li class="percenter"><a href="/my/MyIndex.aspx">个人中心</a></li>
+            <li>|</li>
+            <li><a href="javascript:;" onclick="Exit()">退出</a></li>
+        </ul>
+    </div>
+</div>
+<div id="loginbox">
+    <div class="loginitem" id="logintitle"><i class="layui-icon" style="color: #009688;">&#xe612;</i>   欢迎登录软谋教育</div>
+    <div class="loginitem"><input type="text" id="txtUserName" placeholder="请输入QQ或手机号" /></div>
+    <div class="loginitem"><input type="password" id="txtPwd" placeholder="请输入密码" /></div>
+    <div class="loginitem">
+        <button id="loginbtn" class="layui-btn" type="button" onclick="Login()">登陆</button>
+    </div>
+    <div class="loginitem" id="loginreg">还没账号？<a href="/Reg.aspx">马上注册</a></div>
+</div>
