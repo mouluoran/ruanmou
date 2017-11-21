@@ -1,0 +1,128 @@
+﻿#quecon1 {
+    margin-top: 25px;
+}
+
+.imgbox {
+    width: 50px;
+    height: 70px;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+}
+
+    .imgbox img {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-bottom: 5px;
+    }
+
+.lz {
+    color: #35B558;
+}
+
+.askinfor {
+    width: 566px;
+    float: left;
+    color: #808080;
+    margin-bottom: 25px;
+}
+
+.asktitle {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.askcon1 {
+    width: 566px;
+}
+
+.askinfor2 {
+    width: 566px;
+    height: 23px;
+}
+
+.askuser, .asktime {
+    float: left;
+}
+
+.askuser {
+    width: 100px;
+}
+
+.asktext {
+    margin-top: 20px;
+    line-height: 20px;
+}
+
+.renum {
+    float: left;
+    width: 120px;
+    height: 65px;
+    margin-top: 30px;
+    text-align: center;
+    color: #999;
+}
+
+.renum1 {
+    font-size: 24px;
+    color: #2D85CA;
+}
+
+#comlist {
+    width: 100%;
+    border-top: solid 1px#F2F2F2;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+.comitem {
+    margin-left: 30px;
+    padding: 25px 0px;
+    color: #808080;
+    border-bottom: solid 1px#F2F2F2;
+    overflow: hidden;
+}
+
+.comimgbox {
+    width: 36px;
+    height: 60px;
+    float: left;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.comimg img {
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+}
+
+.comimg {
+    margin-bottom: 5px;
+}
+
+.comcon {
+    width: 550px;
+    float: left;
+}
+
+.comuser {
+    margin-right: 10px;
+}
+
+.comcon1 {
+    margin-top: 10px;
+}
+
+.comuser, .comtime {
+    float: left;
+}
+
+.comcon2 {
+    clear: both;
+    padding-top: 10px;
+    line-height: 20px;
+}
